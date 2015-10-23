@@ -10,6 +10,7 @@ namespace Mathmagician
     {
         static void Main(string[] args)
         {
+            //comment
         }
     }
 }
